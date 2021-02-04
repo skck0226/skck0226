@@ -1,4 +1,4 @@
-### Hi there 👋
+### now studying Algorithm
 
 <!--
 **skck0226/skck0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
