@@ -1,4 +1,4 @@
-### studying Algorithm(잠정 중단)
+### studying Algorithm
 ### node.js backend start
 ### ~21.06
 <!--
