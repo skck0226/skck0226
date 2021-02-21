@@ -1,5 +1,3 @@
-### studying Algorithm
-### node.js backend start
 ### ~21.06
 <!--
 **skck0226/skck0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
