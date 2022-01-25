@@ -1,8 +1,13 @@
 ### 시작
-<!--
-**skck0226/skck0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skck0226)](https://solved.ac/skck0226)
+
+
+<!--
+**skck0226/skck0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
