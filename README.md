@@ -1,7 +1,7 @@
 ### 시작
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skck0226)](https://solved.ac/skck0226)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=skck0226)](https://solved.ac/skck0226)
 
 
 <!--
